@@ -4,6 +4,8 @@
 
 layout: home
 ---
+## Welcome!
+
 Welcome to the Archival Internet Video Index (new title pending)! This index collects information about and links to videos on digital networking technology produced from roughly the late 1970s up to the early 2000s. They cover a variety of topics, from PLATO to the World Wide Web. More information on the index and how to use it can be found on the assocated page linked above.
 
 ## Who created this index, and why?
